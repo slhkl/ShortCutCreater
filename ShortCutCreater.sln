@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortCutCreater", "ShortCutCreater\ShortCutCreater.csproj", "{DCBAF0FF-CEDC-4037-9B99-32F0F851FFBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCBAF0FF-CEDC-4037-9B99-32F0F851FFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCBAF0FF-CEDC-4037-9B99-32F0F851FFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCBAF0FF-CEDC-4037-9B99-32F0F851FFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCBAF0FF-CEDC-4037-9B99-32F0F851FFBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9C573EA-A9FF-4C67-B46E-9EFD5AE2D878}
+	EndGlobalSection
+EndGlobal
